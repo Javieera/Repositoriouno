@@ -5,3 +5,4 @@ repositorio dia jueves 04 de abril 2020
 **Esto es una bajada**
 
 ### subtitulo chico
+~~esto se tacha~~
