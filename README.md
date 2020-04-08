@@ -6,3 +6,6 @@ repositorio dia jueves 04 de abril 2020
 
 ### subtitulo chico
 ~~esto se tacha~~
+
+- Hola
+- Adios
